@@ -1,0 +1,38 @@
+TASK 5 CHECKLIST
+For both Regression and Classification models
+Legend:  [BOTH] = do for every model    [CLASS] = classification only    [REG] = regression only
+1. Model Evaluation
+Calculate: Accuracy, Precision, Recall, F1-score  [CLASS]
+Calculate: RSS, RMSE, R²  [REG]
+2. Check Overfitting / Underfitting
+Compare Train score vs Test score  [BOTH]
+Train score much higher than Test score → Overfitting
+Both scores low → Underfitting
+Train and Test scores close → Good fit ✅
+3. Cross-Validation (5-Fold)  OR Bootstrap
+Run 5-fold (or 10-fold) cross-validation on the training data  [BOTH]
+Note the average score across folds
+Note the score spread (high spread = unstable model)
+4. Compare All Models
+Fill in one table below (Classification OR Regression) for every model tried
+Classification models:
+Model
+Accuracy
+Precision
+Recall
+F1-score
+Regression models:
+Model
+RSS
+RMSE
+R²
+Pick the model with best score AND stable cross-validation result  [BOTH]
+5. Hyperparameter Tuning
+Use GridSearchCV or RandomizedSearchCV on your best model  [BOTH]
+Try different values of key settings (e.g. n_estimators, max_depth, learning_rate)
+Note the best combination it finds
+Re-test the tuned model on the test set — confirm score improved  [BOTH]
+6. Try Advanced Models
+Random Forest(Bagging)  [BOTH]
+AdaBoost [BOTH]
+Gradient Boosting [BOTH] (Optional)

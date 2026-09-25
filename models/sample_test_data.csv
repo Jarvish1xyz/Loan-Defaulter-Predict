@@ -1,0 +1,201 @@
+Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner,Actual_Default
+52,129890,120308,403,20,2,8.84,36,0.31,High School,Full-time,Divorced,Yes,No,Other,No,1
+69,131732,148759,695,31,1,15.84,24,0.59,Bachelor's,Self-employed,Divorced,No,Yes,Business,Yes,0
+43,132166,153171,482,100,1,3.99,60,0.37,High School,Part-time,Married,No,Yes,Auto,No,0
+27,72386,212759,674,39,3,15.3,60,0.4,Bachelor's,Unemployed,Single,Yes,Yes,Other,No,0
+41,108487,57348,566,3,1,6.86,12,0.79,Master's,Part-time,Married,No,No,Other,No,0
+67,138251,208848,472,21,1,5.52,12,0.51,Master's,Full-time,Divorced,No,No,Education,Yes,0
+44,89633,12491,337,97,2,20.36,24,0.12,Bachelor's,Unemployed,Divorced,Yes,No,Business,Yes,0
+28,78191,135668,536,53,4,5.92,24,0.56,PhD,Unemployed,Divorced,Yes,No,Home,No,0
+19,36695,179274,502,101,3,10.25,60,0.18,Bachelor's,Unemployed,Married,No,No,Other,No,1
+39,65177,114742,743,39,2,24.95,48,0.58,Master's,Unemployed,Married,Yes,Yes,Other,No,0
+40,20297,109823,558,107,4,13.39,48,0.85,Bachelor's,Self-employed,Married,Yes,Yes,Business,Yes,0
+62,91311,70892,617,11,1,5.28,48,0.25,Master's,Full-time,Married,Yes,No,Auto,Yes,0
+39,106942,133557,748,90,4,9.6,60,0.58,Master's,Unemployed,Married,No,No,Education,No,0
+47,91268,43695,589,67,1,4.21,12,0.42,PhD,Full-time,Divorced,Yes,No,Other,No,0
+66,84857,103059,612,34,1,23.44,48,0.29,High School,Part-time,Married,No,Yes,Home,No,0
+69,140990,220388,719,35,2,16.61,60,0.26,Master's,Unemployed,Married,No,Yes,Education,No,0
+66,127719,37418,524,27,1,6.23,36,0.19,PhD,Unemployed,Divorced,No,Yes,Education,No,1
+48,21886,182230,841,41,4,13.93,36,0.13,PhD,Full-time,Divorced,Yes,No,Home,No,0
+62,28433,149605,667,96,1,2.96,12,0.24,Master's,Self-employed,Married,No,No,Education,No,0
+30,132118,197550,774,83,2,12.63,48,0.32,Bachelor's,Full-time,Married,No,Yes,Education,Yes,1
+64,18558,221684,634,5,3,14.3,60,0.31,High School,Self-employed,Divorced,No,Yes,Home,Yes,0
+33,108332,136385,752,51,4,23.08,36,0.63,Bachelor's,Self-employed,Married,Yes,Yes,Auto,No,0
+53,75619,38484,666,44,1,2.12,36,0.4,Bachelor's,Unemployed,Divorced,Yes,Yes,Education,No,0
+66,58405,26024,740,27,3,9.89,36,0.43,PhD,Full-time,Married,No,No,Home,No,0
+59,135459,41796,510,46,2,23.96,48,0.25,High School,Unemployed,Married,No,Yes,Auto,No,0
+52,37445,144589,813,58,3,13.71,48,0.22,Bachelor's,Self-employed,Single,No,Yes,Auto,No,0
+40,47300,217978,420,38,3,16.9,36,0.59,Bachelor's,Part-time,Married,Yes,No,Home,Yes,0
+63,134030,133601,465,69,1,16.74,12,0.18,High School,Part-time,Married,Yes,Yes,Home,Yes,0
+65,127413,93864,846,117,1,11.49,24,0.49,High School,Self-employed,Single,No,Yes,Business,Yes,0
+33,36686,159442,407,24,2,12.91,60,0.12,Master's,Full-time,Married,Yes,No,Auto,No,1
+46,37781,232585,727,72,3,12.11,12,0.59,Master's,Self-employed,Single,No,Yes,Other,No,1
+39,17924,189177,766,38,1,22.93,36,0.75,Bachelor's,Full-time,Divorced,Yes,No,Other,Yes,1
+33,52462,199644,812,52,3,21.55,12,0.86,PhD,Part-time,Single,No,Yes,Auto,Yes,1
+52,74844,134432,418,80,3,20.82,24,0.13,Bachelor's,Self-employed,Divorced,No,Yes,Home,Yes,0
+38,123295,22991,479,80,2,19.78,48,0.36,Bachelor's,Full-time,Single,No,Yes,Home,No,0
+21,141380,206253,569,47,1,17.72,36,0.11,PhD,Self-employed,Single,Yes,No,Home,No,0
+31,35711,9281,484,85,3,3.92,24,0.77,Bachelor's,Part-time,Divorced,No,No,Auto,No,0
+43,94968,32014,600,110,2,15.26,24,0.71,PhD,Part-time,Single,No,No,Auto,Yes,0
+61,131760,190603,356,96,1,21.92,36,0.89,High School,Unemployed,Married,Yes,Yes,Home,Yes,0
+30,86308,101308,430,107,1,19.63,36,0.8,Bachelor's,Self-employed,Divorced,No,Yes,Business,No,0
+57,31724,143346,450,65,4,16.01,60,0.31,High School,Full-time,Divorced,Yes,No,Auto,Yes,0
+29,62419,29132,634,28,3,13.4,48,0.12,Bachelor's,Part-time,Married,Yes,Yes,Education,No,0
+33,100440,110696,722,83,1,20.24,60,0.29,Master's,Full-time,Married,No,Yes,Other,No,0
+66,100519,203760,841,58,1,6.2,48,0.56,PhD,Part-time,Married,Yes,Yes,Business,Yes,0
+53,78617,30994,384,77,1,14.1,24,0.5,Master's,Part-time,Divorced,Yes,No,Education,No,0
+34,133348,59188,409,116,4,10.07,48,0.85,PhD,Self-employed,Married,Yes,Yes,Other,Yes,0
+43,71833,158689,384,96,3,19.91,60,0.31,Master's,Unemployed,Married,No,Yes,Business,Yes,0
+69,91345,109142,831,7,2,8.8,24,0.13,Master's,Full-time,Single,Yes,No,Auto,Yes,0
+38,36976,193729,641,53,3,12.89,36,0.52,Bachelor's,Full-time,Single,Yes,Yes,Business,Yes,0
+60,28618,93798,733,33,2,3.15,12,0.55,Master's,Full-time,Married,No,Yes,Auto,No,0
+59,32143,46109,447,49,2,18.13,12,0.77,Master's,Self-employed,Divorced,Yes,Yes,Education,Yes,0
+62,52759,162598,327,87,2,12.93,36,0.38,High School,Unemployed,Single,No,Yes,Home,No,0
+53,82689,18544,352,40,1,6.25,60,0.69,Bachelor's,Unemployed,Married,No,No,Business,Yes,0
+38,90534,105522,709,26,2,22.76,48,0.15,Bachelor's,Part-time,Married,Yes,Yes,Other,Yes,0
+32,137712,93847,382,105,3,7.33,48,0.73,High School,Self-employed,Single,Yes,Yes,Other,No,0
+23,44601,220259,685,47,4,19.87,12,0.68,Bachelor's,Unemployed,Divorced,No,Yes,Auto,No,0
+62,149273,154992,426,94,2,24.61,24,0.65,Bachelor's,Unemployed,Divorced,No,Yes,Home,No,0
+45,40246,62782,420,5,4,5.72,24,0.75,Master's,Part-time,Single,No,Yes,Home,No,0
+57,40587,230078,437,36,2,24.19,36,0.82,PhD,Part-time,Married,No,No,Other,No,0
+26,95789,186736,730,48,4,6.24,60,0.32,PhD,Full-time,Single,No,Yes,Home,Yes,0
+50,107029,52421,557,20,4,19.73,36,0.3,PhD,Part-time,Single,Yes,Yes,Education,No,1
+57,22895,32214,622,27,3,10.19,48,0.26,PhD,Full-time,Single,No,Yes,Education,Yes,0
+69,44969,83638,425,104,4,16.67,60,0.27,PhD,Self-employed,Married,Yes,No,Business,No,0
+57,43234,78156,489,62,3,6.72,24,0.4,High School,Full-time,Married,No,No,Business,Yes,0
+36,77785,35449,617,75,3,19.23,48,0.66,Bachelor's,Full-time,Single,No,No,Business,Yes,0
+28,100774,247674,328,65,2,13.08,60,0.15,High School,Unemployed,Married,No,Yes,Education,No,0
+58,66738,27554,392,3,1,8.16,12,0.79,High School,Full-time,Divorced,No,Yes,Other,Yes,0
+18,148281,159559,459,75,2,19.3,36,0.2,High School,Full-time,Married,Yes,No,Education,No,1
+25,24483,70246,789,79,1,3.16,60,0.51,Master's,Self-employed,Married,Yes,Yes,Business,No,0
+36,20823,212824,731,100,2,9.45,12,0.48,High School,Unemployed,Married,No,No,Business,Yes,0
+53,94225,26032,712,58,4,11.26,36,0.16,PhD,Part-time,Divorced,No,Yes,Business,No,0
+53,92478,55541,370,94,2,12.36,48,0.2,High School,Full-time,Divorced,No,No,Other,Yes,0
+28,76655,29816,746,12,2,8.6,48,0.48,Master's,Full-time,Divorced,No,No,Auto,Yes,0
+48,25367,202256,437,56,4,16.64,48,0.57,PhD,Unemployed,Divorced,Yes,Yes,Other,Yes,0
+26,147233,198221,359,18,4,13.95,24,0.44,PhD,Full-time,Single,No,No,Other,No,0
+29,84438,188384,750,23,2,21.35,24,0.1,High School,Full-time,Divorced,No,No,Auto,No,0
+40,47934,151457,638,52,2,13.49,24,0.42,Bachelor's,Part-time,Single,No,No,Other,No,1
+55,103137,186515,361,0,2,4.16,12,0.74,Master's,Unemployed,Married,Yes,No,Business,No,0
+24,101293,82613,332,41,4,21.89,48,0.66,PhD,Part-time,Single,Yes,Yes,Education,No,0
+25,70548,98121,402,110,4,10.05,48,0.3,Bachelor's,Part-time,Divorced,No,No,Other,Yes,1
+62,147167,96537,597,81,4,5.18,12,0.8,High School,Full-time,Divorced,Yes,Yes,Education,Yes,0
+48,82250,194151,583,67,3,14.2,36,0.42,High School,Self-employed,Married,No,Yes,Auto,No,0
+60,94744,82567,610,18,2,21.91,12,0.73,Master's,Unemployed,Single,Yes,No,Home,Yes,0
+20,99990,14600,693,85,3,7.17,12,0.68,Master's,Self-employed,Single,No,No,Education,No,0
+48,108973,73290,841,33,4,13.06,36,0.77,Master's,Full-time,Single,Yes,Yes,Home,No,0
+43,114781,87219,422,82,3,14.45,36,0.27,High School,Part-time,Divorced,Yes,Yes,Education,No,1
+59,128407,187658,516,20,1,12.28,36,0.74,Master's,Full-time,Married,Yes,No,Business,Yes,0
+41,73391,66242,384,105,1,18.74,60,0.76,High School,Self-employed,Married,Yes,No,Other,Yes,0
+42,130276,6352,772,58,1,21.67,12,0.3,Master's,Full-time,Married,No,No,Education,Yes,0
+66,25478,134843,332,0,4,14.32,36,0.38,Bachelor's,Full-time,Married,No,Yes,Education,No,0
+43,71443,164942,676,90,2,13.53,36,0.6,PhD,Full-time,Divorced,Yes,Yes,Education,Yes,0
+62,123995,131346,691,57,3,17.82,36,0.7,PhD,Unemployed,Divorced,No,Yes,Home,Yes,0
+34,145447,77319,714,108,1,19.62,24,0.17,High School,Unemployed,Divorced,Yes,No,Education,No,0
+41,43706,26117,674,12,2,4.59,12,0.46,Bachelor's,Unemployed,Single,No,No,Other,No,0
+69,19876,53553,661,50,4,2.38,36,0.33,Master's,Part-time,Divorced,No,Yes,Home,No,0
+21,77674,102859,790,22,1,3.59,12,0.35,High School,Part-time,Married,Yes,Yes,Business,No,1
+60,37835,179841,353,65,1,23.45,24,0.87,Bachelor's,Part-time,Divorced,No,No,Education,Yes,0
+26,18744,221305,829,51,3,22.07,24,0.87,PhD,Part-time,Divorced,Yes,No,Home,No,1
+60,23003,41173,740,55,3,7.08,24,0.15,Master's,Unemployed,Married,No,No,Home,Yes,0
+63,48468,159940,808,98,3,20.46,48,0.6,PhD,Self-employed,Divorced,Yes,Yes,Other,Yes,0
+66,144176,40954,415,113,2,6.35,60,0.57,Bachelor's,Self-employed,Married,Yes,No,Home,No,0
+20,44167,95180,364,30,1,10.26,24,0.82,Master's,Self-employed,Married,Yes,No,Home,Yes,0
+69,113496,149940,735,76,1,3.62,36,0.36,PhD,Unemployed,Single,No,No,Education,No,0
+69,137529,94730,770,55,2,12.95,12,0.77,Bachelor's,Part-time,Married,Yes,Yes,Other,No,0
+29,31480,92902,566,59,1,7.31,24,0.71,PhD,Full-time,Divorced,Yes,Yes,Home,Yes,0
+43,56441,115230,615,46,2,23.69,12,0.49,High School,Part-time,Married,Yes,No,Business,No,0
+39,18397,83861,745,87,3,19.41,48,0.19,High School,Full-time,Divorced,Yes,No,Business,No,0
+25,62596,43970,590,37,1,3.45,48,0.74,Bachelor's,Part-time,Single,Yes,No,Auto,No,0
+58,80661,242444,603,26,3,16.73,24,0.12,Master's,Part-time,Single,No,Yes,Business,No,0
+27,52957,201096,432,83,2,13.59,60,0.82,Master's,Part-time,Divorced,No,No,Other,Yes,0
+68,46930,114084,632,77,2,2.95,24,0.24,PhD,Part-time,Single,No,Yes,Auto,Yes,0
+34,46308,149530,635,84,2,6.49,12,0.41,Bachelor's,Full-time,Single,Yes,No,Business,Yes,1
+38,111615,76708,539,67,2,20.96,48,0.7,Master's,Unemployed,Single,No,No,Education,No,0
+23,127173,27076,640,86,4,9.68,24,0.8,Bachelor's,Full-time,Single,Yes,No,Education,Yes,0
+53,124682,220882,530,71,4,20.59,36,0.79,Bachelor's,Full-time,Married,No,Yes,Other,No,0
+53,143315,181001,719,7,1,15.51,24,0.45,Master's,Self-employed,Divorced,Yes,No,Other,No,0
+59,74044,214554,442,108,2,9.14,24,0.21,PhD,Part-time,Single,No,No,Business,No,0
+48,26543,59218,347,22,1,21.99,12,0.39,High School,Part-time,Single,Yes,No,Business,No,0
+60,24078,59644,591,90,2,23.87,36,0.88,PhD,Unemployed,Single,Yes,Yes,Auto,Yes,0
+18,87357,243379,704,99,4,24.48,48,0.49,Master's,Full-time,Divorced,Yes,Yes,Auto,Yes,0
+19,137276,179066,809,31,2,11.4,24,0.32,PhD,Full-time,Single,No,No,Business,No,0
+48,114688,158162,364,12,1,21.67,12,0.64,Bachelor's,Part-time,Married,No,Yes,Other,No,0
+64,136647,121269,703,90,1,24.89,12,0.15,Bachelor's,Full-time,Married,Yes,No,Home,No,0
+52,70735,197795,404,80,1,18.75,12,0.87,Bachelor's,Full-time,Single,Yes,Yes,Home,Yes,0
+51,88310,218622,389,57,3,13.32,48,0.12,Bachelor's,Self-employed,Divorced,No,Yes,Education,Yes,0
+46,133277,104556,365,84,3,19.9,60,0.34,Master's,Full-time,Single,No,Yes,Education,Yes,0
+47,74548,90443,533,113,3,4.5,60,0.88,Bachelor's,Part-time,Single,Yes,Yes,Auto,Yes,0
+33,39817,242797,302,15,3,23.86,48,0.21,Bachelor's,Full-time,Single,No,Yes,Home,Yes,1
+58,31505,245853,462,109,3,16.78,60,0.38,Bachelor's,Unemployed,Single,No,No,Home,Yes,0
+50,92986,45937,848,7,2,3.97,48,0.55,Bachelor's,Unemployed,Married,Yes,Yes,Other,No,0
+22,116142,33305,786,118,1,8.9,48,0.67,Bachelor's,Part-time,Single,Yes,Yes,Business,Yes,0
+46,148114,241366,525,1,4,12.53,12,0.65,High School,Unemployed,Single,No,Yes,Education,Yes,0
+40,90397,144069,417,42,2,11.77,48,0.76,Bachelor's,Self-employed,Divorced,No,No,Business,Yes,0
+21,60906,37703,306,94,4,5.0,60,0.72,Bachelor's,Part-time,Divorced,Yes,Yes,Home,No,0
+26,128141,159755,491,61,1,6.27,12,0.86,PhD,Full-time,Single,Yes,Yes,Auto,Yes,0
+40,63010,194552,415,6,2,11.6,24,0.79,Master's,Part-time,Divorced,Yes,Yes,Business,No,1
+25,87652,247625,554,22,1,19.99,12,0.67,Master's,Part-time,Divorced,No,No,Auto,Yes,0
+27,92485,7203,787,29,1,15.94,24,0.22,Master's,Self-employed,Divorced,Yes,No,Auto,Yes,0
+43,85271,137475,471,13,2,16.33,24,0.84,High School,Part-time,Divorced,No,No,Home,Yes,0
+58,40883,168889,575,10,2,12.08,48,0.36,Bachelor's,Self-employed,Single,No,Yes,Home,Yes,0
+50,93365,122720,550,43,2,14.66,24,0.4,High School,Unemployed,Divorced,Yes,No,Other,Yes,0
+43,63248,76715,503,55,4,16.19,12,0.73,Master's,Part-time,Married,Yes,No,Auto,Yes,0
+22,90258,100194,593,11,4,9.73,48,0.16,Bachelor's,Unemployed,Divorced,Yes,No,Home,Yes,1
+35,123437,5834,641,94,3,11.46,12,0.12,PhD,Unemployed,Married,No,No,Business,Yes,0
+60,20578,14179,776,98,2,21.2,48,0.56,Master's,Self-employed,Single,No,Yes,Education,No,0
+44,94242,11562,806,46,1,7.91,48,0.4,High School,Unemployed,Divorced,No,Yes,Business,No,0
+19,122877,199657,459,116,3,4.67,12,0.3,High School,Full-time,Married,No,No,Business,Yes,1
+52,91512,139473,666,3,2,13.69,24,0.29,Bachelor's,Unemployed,Single,No,Yes,Business,Yes,1
+31,140060,228576,339,53,1,14.78,48,0.84,High School,Unemployed,Divorced,Yes,No,Business,No,0
+35,44337,154665,672,88,4,17.69,48,0.62,PhD,Self-employed,Divorced,No,No,Home,Yes,0
+37,60547,76811,470,70,2,21.87,36,0.45,PhD,Self-employed,Single,No,No,Education,No,1
+65,103686,245302,636,6,2,11.71,60,0.88,Bachelor's,Part-time,Married,Yes,Yes,Auto,No,0
+25,102695,131717,847,89,1,7.19,24,0.64,High School,Self-employed,Married,Yes,No,Home,No,0
+41,144551,85836,524,82,1,22.62,24,0.66,High School,Part-time,Single,Yes,No,Education,No,0
+28,47541,244288,717,55,3,6.76,12,0.37,PhD,Full-time,Divorced,Yes,No,Education,Yes,0
+67,102642,24782,410,115,2,17.84,48,0.54,Bachelor's,Unemployed,Single,Yes,Yes,Education,Yes,0
+51,68120,126205,751,13,4,9.61,12,0.4,High School,Part-time,Divorced,No,Yes,Home,No,0
+39,53136,65710,378,52,4,20.51,48,0.46,PhD,Unemployed,Married,Yes,No,Home,Yes,0
+39,55580,228162,370,31,2,12.34,60,0.41,High School,Unemployed,Single,Yes,Yes,Education,No,0
+56,33275,26823,592,13,3,10.78,48,0.63,Bachelor's,Full-time,Divorced,Yes,Yes,Other,No,0
+35,68702,213984,515,53,1,5.76,48,0.84,Bachelor's,Self-employed,Single,Yes,Yes,Business,No,0
+23,103273,220385,416,41,1,24.73,12,0.35,Master's,Full-time,Single,Yes,Yes,Education,Yes,0
+33,56454,98286,339,9,1,3.3,12,0.73,Master's,Unemployed,Married,No,Yes,Home,Yes,0
+31,108493,182198,733,20,2,13.66,48,0.27,PhD,Self-employed,Single,No,Yes,Other,No,0
+50,63133,149364,346,9,1,23.29,36,0.29,PhD,Unemployed,Divorced,No,Yes,Education,No,1
+53,135435,159190,764,65,2,18.63,36,0.19,PhD,Part-time,Divorced,No,No,Education,Yes,0
+36,59138,228046,680,96,4,6.31,12,0.29,PhD,Unemployed,Married,Yes,No,Auto,No,0
+62,59930,53939,831,11,2,9.46,12,0.3,Bachelor's,Unemployed,Single,Yes,Yes,Business,No,0
+61,58559,49164,534,72,3,20.38,24,0.68,PhD,Unemployed,Single,Yes,Yes,Auto,No,0
+61,82918,16988,426,92,4,14.09,48,0.42,PhD,Part-time,Divorced,Yes,No,Other,No,0
+59,52853,138689,701,76,3,3.37,12,0.63,Master's,Unemployed,Divorced,No,No,Home,Yes,0
+62,112489,41210,572,34,4,6.28,48,0.15,High School,Self-employed,Married,Yes,Yes,Home,No,0
+54,114006,159396,834,96,1,19.6,24,0.35,Bachelor's,Part-time,Single,No,Yes,Auto,No,0
+61,67412,196926,761,108,2,3.93,12,0.37,PhD,Unemployed,Single,No,No,Home,No,0
+61,33781,23337,376,53,3,22.82,24,0.35,Master's,Unemployed,Single,Yes,Yes,Home,Yes,0
+52,121744,24219,481,55,2,18.72,48,0.4,PhD,Unemployed,Single,No,Yes,Education,No,0
+65,81149,213489,754,6,4,12.75,48,0.27,Master's,Self-employed,Single,Yes,No,Home,Yes,0
+65,92614,236872,590,23,4,18.62,60,0.39,PhD,Self-employed,Single,No,No,Other,No,0
+40,100924,79869,732,56,2,3.27,48,0.2,Master's,Self-employed,Married,Yes,Yes,Auto,No,0
+66,31753,16594,742,92,4,17.54,12,0.77,High School,Self-employed,Married,No,No,Home,Yes,1
+50,127798,153990,509,39,2,6.22,60,0.85,Bachelor's,Self-employed,Married,Yes,No,Auto,Yes,0
+52,61503,229947,744,37,3,10.45,36,0.22,Bachelor's,Unemployed,Divorced,No,No,Other,Yes,0
+39,63778,53858,324,118,3,20.9,12,0.81,PhD,Full-time,Single,No,No,Other,No,1
+67,124687,108147,331,21,3,12.51,12,0.36,PhD,Full-time,Single,No,Yes,Auto,No,0
+36,100702,139879,394,89,1,11.27,24,0.65,High School,Unemployed,Divorced,No,No,Business,No,0
+20,69119,234053,660,24,2,11.28,36,0.27,Bachelor's,Part-time,Single,No,No,Education,Yes,0
+43,64985,222812,813,31,4,17.99,60,0.63,Master's,Unemployed,Divorced,Yes,No,Business,Yes,0
+68,98273,118128,699,113,3,18.21,36,0.68,High School,Unemployed,Single,No,No,Home,No,0
+21,38106,53232,688,114,3,18.87,48,0.54,Bachelor's,Full-time,Single,No,Yes,Home,No,1
+30,119787,211471,713,3,2,17.3,24,0.83,Master's,Part-time,Divorced,Yes,Yes,Business,No,1
+39,131519,36805,342,78,3,20.61,36,0.85,Bachelor's,Self-employed,Single,No,No,Auto,Yes,0
+65,27111,72823,320,2,4,11.55,60,0.72,High School,Full-time,Single,No,No,Auto,Yes,0
+19,38009,172346,601,7,4,15.28,24,0.21,Master's,Self-employed,Divorced,Yes,Yes,Education,Yes,0
+46,37691,236742,470,36,4,14.98,12,0.17,PhD,Unemployed,Divorced,Yes,Yes,Home,Yes,0
+43,56128,63724,703,34,4,4.5,36,0.51,Master's,Full-time,Divorced,No,No,Auto,No,0
+52,145410,131155,335,62,3,9.46,36,0.5,Bachelor's,Part-time,Married,Yes,No,Home,Yes,0
+44,113247,99125,737,54,3,18.0,36,0.9,PhD,Self-employed,Single,No,Yes,Business,No,0
+39,131320,220492,843,63,4,11.26,48,0.16,PhD,Self-employed,Single,No,No,Home,No,0
+40,87654,170420,809,26,4,11.21,36,0.45,Master's,Part-time,Divorced,Yes,No,Education,Yes,0
+28,53254,63430,386,10,2,14.27,48,0.16,Master's,Self-employed,Single,Yes,No,Home,No,0
